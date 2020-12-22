@@ -1,1 +1,1 @@
-PHP - GET & POST Methods - There are two ways the browser client can send information to the web server.
+PHP array_merge() Function. Merge two arrays into one array: $a1=array("red","green"); $a2=array("blue","yellow"); Merge two associative arrays into one array: $a1=array("a"=>"red","b"=>"green"); $a2=array("c"=>"blue","b"=>"yellow"); Using only one array parameter with integer keys: $a=array(3=>"red",4=>"green");
