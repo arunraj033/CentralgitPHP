@@ -1,1 +1,1 @@
-The GET Method. GET is used to request data from a specified resource. GET is one of the most common HTTP methods. POST is used to send data to a server to create/update a resource. POST is one of the most common HTTP methods.
+PHP - GET & POST Methods - There are two ways the browser client can send information to the web server.
